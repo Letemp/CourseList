@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CourseList</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_title">我的课程表</string>
+    <string name="str_one">第一节</string>
+    <string name="str_two">第二节</string>
+    <string name="str_three">第三节</string>
+    <string name="str_four">第四节</string>
+    <string name="str_five">第五节</string>
+    <string name="str_six">第六节</string>
+    <string name="str_seven">第七节</string>
+    <string name="str_mon">星期一</string>
+    <string name="str_tue">星期二</string>
+    <string name="str_wen">星期三</string>
+    <string name="str_thu">星期四</string>
+    <string name="str_fri">星期五</string>
+
+</resources>

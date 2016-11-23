@@ -1,0 +1,132 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ccffff"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#436EEE"
+        android:background="#ccffff"
+        android:padding="5dp"
+        android:layout_marginBottom="5dp"
+        android:textSize="24sp"
+        android:text="@string/str_title" />
+
+    <TableRow>
+        <TextView
+            style="@style/tvShape"
+            android:background="#00000000" />
+
+        <TextView
+            style="@style/tvShape"
+            android:layout_column="1"
+            android:text="@string/str_one" />
+
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_two" />
+
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_three" />
+
+        <TextView
+            style="@style/tvShape"            
+            android:text="@string/str_four" />
+
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_five" />
+
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_six" />
+
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_seven" />
+
+        
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_mon" />
+
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>"
+
+        
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_tue" />
+
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_wen" />
+
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_thu" />
+
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            style="@style/tvShape"
+            android:text="@string/str_fri" />
+
+       <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        <Button style="@style/btn"/>
+        
+    </TableRow>
+
+</TableLayout>
